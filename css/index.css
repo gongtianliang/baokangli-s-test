@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.top{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(231, 252, 227);
+    line-height: 40px;
+    margin: 0 auto;
+}
+.top .img a{
+    line-height: 65px;
+}
+
+
+.search{
+    width: 2000px;
+    margin: 0 auto;
+    height: 100px;
+}
+.search .bkl{
+    width: 80%;
+    margin: 0 auto;
+    line-height: 100px;
+}
+.search .bkl .left .logo{
+    float: left;
+    margin-right: 20px;
+}
+.search .bkl .left .logo h1{
+    font-size: 25px;
+    color: seagreen;
+}
+.search .bkl .left .kuang{
+    float: left;
+}
+.search .bkl .left .kuang span{
+    position: absolute;
+    color:rgb(179, 178, 178) ;
+    margin-left: 10px;
+    height: 50px;
+    width: 350px;
+    border: 1px solid transparent;
+}
+.search .bkl .left .kuang input{
+    height: 50px;
+    width: 350px;
+    border: 1px solid rgb(179, 178, 178);
+}
+.search .bkl .right{
+    float: right;
+}
+.search .bkl .right img{
+    width: 620px;
+    height: 30px;
+    margin-top: 37px;
+}
+
+
+.banner{
+    height: 500px;
+    width: 100%;
+    background-color:rgb(231, 252, 227) ;
+    margin: 0 auto;
+}
+.banner .dyx{
+    width: 3000px;
+    margin: 0 auto;
+}
+.banner .cyh{
+    width: 1282px;
+    height: 500px;
+    float: left;
+}
+.banner .cyh img{
+    width: 1282px;
+    height: 500px;
+    margin-top: -5px;
+}
+.banner .middle{
+    width: 400px;
+    height: 500px;
+    padding-top: 200px;
+    float: left;
+}
+
+.banner .dyx .middle .shang h2{
+    font-weight: lighter;
+    font-size: 40px;
+}
+.banner .dyx .middle .xia{
+    margin-top: 20px;
+}
+.banner .dyx .middle .xia .one{ 
+    width: 180px;
+    height: 56px;
+    background-color: rgb(40, 197, 108);
+    margin-left: 5px;
+    margin-top: 10px;
+    float: left;
+}
+.banner .dyx .middle .xia .one:hover{
+    background-color: seagreen;
+}
+.banner .dyx .middle .xia .one a{
+    line-height: 56px;
+    margin-left: 37px;
+    color: #fff;
+}
+.banner .dyx .middle .xia .tow a img{
+    border: 1px solid rgb(114, 112, 112);
+    margin-top: 9px;
+    margin-left: 5px;
+}
+
+
+.zhuce{
+    width: 500px;
+    height: 500px;
+    float: right;
+    margin-right: 817px;
+    margin-top: -82px;
+}
+.erweima{
+    position: relative;
+    width: 82px;
+    height: 82px;
+    top: -709px;
+    right: -2102px;
+}
+.zhuce .xiang{
+    width: 450px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    position: relative;
+}
+.zhuce .xiang .en ul li{
+    float: left;
+    width:224px ;
+    height: 50px;
+    margin: 0 auto;
+}
+.zhuce .xiang .en ul li a{
+    font-size: 25px;
+    color: #000;
+    padding-left: 17px;
+}
+.zhuce .xiang .hao p{
+    display: inline;
+    font-size: 5px;
+    color: gray;
+}
+.zhuce .xiang .hao span{
+    font-size: 5px;
+    color: green;
+}
+.zhuce .xiang .buhao span{
+    position: absolute;
+    top: 90px;
+    left: 14px;
+}
+.zhuce .xiang .buhao p{
+    position: absolute;
+    top:90px ;
+    left: 60px;
+}
+.zhuce .xiang .buhao{
+    margin-top: 10px;
+}
+.zhuce .xiang .buhao input{
+    height: 36px;
+    width:  450px;
+}
+.zhuce .xiang .tow-buhao input{
+    height: 36px;
+    width:  450px;
+}
+.zhuce .xiang .tow-buhao p{
+    position: absolute;
+    top: 140px;
+    left: 14px;
+}
+.zhuce .xiang .tow-buhao{
+    margin-top: 10px;
+}
+.zhuce .xiang .tow-buhao span{
+    position: absolute;
+    top: 140px;
+    left: 345px;
+    color: green;
+}
+
+.zhuce .xiang .denglu{
+    width: 450px;
+    height: 36px;
+    background-color: green;
+}
